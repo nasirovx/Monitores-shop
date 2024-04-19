@@ -1,0 +1,172 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Монитор M2368H",
+            "description": "The iPhone 12, featuring a stunning 6.1-inch Super Retina XDR display, A14 Bionic chip, and advanced dual-camera system.",
+            "price": "7 700",
+            "rating": 4.69,
+            "installment": "0.0.24",
+            "planprice": "120",
+            "brand": "Apple",
+            "category": "smartphones",
+            "images": [
+                "https://ir-3.ozone.ru/s3/multimedia-g/wc350/6467394136.jpg",
+                "https://jabko.ua/image/cache/catalog/products/2022/04/081412/iphone-12-white-select-2020-max-420.jpg.webp",
+                "https://smart-sila.ru/images/thumbnails/2560/1792/detailed/9/iPhone-12-colors-scaled__1__58mg-o5.jpeg",
+                "https://a.allegroimg.com/original/112ecd/b2e9cd414066a759112964d182aa/Etui-do-iPhone-12-Mini-Spigen-Ultra-Hybrid-cover-Kolor-inny"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Монитор Odyssey G3",
+            "description": "The iPhone 13 with a 6.1-inch Super Retina XDR display, A15 Bionic chip, and Cinematic mode for stunning video recording.",
+            "price": "17 800",
+            "rating": 4.44,
+            "brand": "Apple",
+            "category": "smartphones",
+            "images": [
+                "https://ir-3.ozone.ru/s3/multimedia-l/wc350/6395361849.jpg",
+                "https://s2.glbimg.com/XtkKLqLNPzcj7AkJ9uPYU0q6KTw%3D/0x0:1260x912/984x0/smart/filters:strip_icc%28%29/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/B/t/yfRL6MTZiaJdcb5SVdkQ/iphones12e13-2.jpg",
+                "https://avatars.mds.yandex.net/get-mpic/1605421/img_id7332322283322094500.jpeg/orig",
+                "https://netrinoimages.s3.eu-west-2.amazonaws.com/2017/05/28/453344/353184/apple_iphone_13_stl_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_3686555_o.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Монитор acerek240-lkz",
+            "description": "Introducing the iPhone 15 with a revolutionary Dynamic Island design and the powerful A17 Bionic chip.",
+            "price": "10 800",
+            "rating": 4.09,
+            "brand": "Apple",
+            "category": "tablets",
+            "images": [
+                "https://ir-3.ozone.ru/s3/multimedia-1-u/wc350/6924711810.jpg",
+                "https://blog.eldorado.ru/storage/publication/AaBkpicZ1BZMy23eZGN91ZDsZxwRXZQHrLd77So9.png",
+                "https://istore38.ru/storage/images/14/006bWoNYly1hfyn9hpq0sj310g0kidhp_large.jpg",
+                "https://doska.ykt2.ru/files/2024-02-19/EKR2Gq7P.jpeg"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Монитор M2442PH",
+            "description": "The MacBook Pro 2021 with a stunning mini-LED display, powerful M1 Pro chip, and enhanced performance for professionals.",
+            "price": "9 900",
+            "rating": 4.57,
+            "installment": "0.0.24",
+            "planprice": "120",
+            "brand": "Apple",
+            "category": "laptops",
+            "images": [
+                "https://ir-3.ozone.ru/s3/multimedia-0/wc350/6467395776.jpg",
+                "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/MacBook_Pro_concept_white.jpg",
+                "https://wanderlustpulse.com/wp-content/uploads/2021/11/Apple-M1-Max-Macbook-Pro-16-scaled.jpg",
+                "https://ipowermacpro.com/822/short-manufacturmacbook-pro-15-2019-core-i9-24ghz-32-go-ram-2-to-ssd-amd-vega-pro-20-349900.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Монитор LS27C366EAIXCI",
+            "description": "The Samsung Galaxy Book S (2020) Laptop featuring an Intel Lakefield Chip, 8GB of RAM, and a sleek, lightweight design.",
+            "price": "12 500",
+            "rating": 4.25,
+            "installment": "0.0.24",
+            "planprice": "120",
+            "brand": "Samsung",
+            "category": "smartphones",
+            "images": [
+                "https://ir-3.ozone.ru/s3/multimedia-j/wc350/6783350923.jpg",
+                "https://avatars.mds.yandex.net/get-mpic/6253235/img_id5884298721562194700.jpeg/orig",
+                "https://i.ebayimg.com/00/s/MTA4OFgxNTAw/z/8hgAAOSwoWRjY9wO/$_57.JPG?set_id=880000500F",
+                "https://i.ebayimg.com/images/g/yv4AAOSwBiBfA9WG/s-l1600.jpg"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Монитор Desktop IC",
+            "description": "Style meets performance with the MacBook Air M2. Stand out on HD video calls and capture ideas on the vibrant touchscreen.",
+            "price": "8 309",
+            "rating": 4.43,
+            "installment": "0.0.24",
+            "planprice": "120",
+            "brand": "Apple",
+            "category": "laptops",
+            "images": [
+                "https://ir-2.ozone.ru/s3/multimedia-6/wc350/6838053870.jpg",
+                "https://appleinsider.ru/wp-content/uploads/2022/06/magsafe_2022.jpg",
+                "https://ios.im/usr/uploads/lantian/2022/07/2cb603f12b6e5e9efd373e037cb34dd5.jpg",
+                "https://staticg.sportskeeda.com/editor/2022/06/dd01a-16548380032855-1920.jpg"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "M2750C",
+            "description": "The iPad 2023 combines style and speed. Stand out on HD video calls backed by Studio Mics and capture ideas on the vibrant touchscreen.",
+            "price": "8 211",
+            "topprice": 1099,
+            "discountPercentage": "26.48",
+            "rating": 4.43,
+            "installment": "0.0.24",
+            "planprice": "120",
+            "brand": "Apple",
+            "category": "tablets",
+            "images": [
+                "https://ir-2.ozone.ru/s3/multimedia-1-6/wc350/6969354906.jpg",
+                "https://www.actualidadiphone.com/wp-content/uploads/2021/05/iPad-Pro-03.jpg",
+                "https://cdn.mos.cms.futurecdn.net/Cd5Rmw3gfK54DrHRBPTVid.jpg",
+                "https://media.sketchfab.com/models/6a7c62f8315a438494b3283544fcfaa6/thumbnails/a26d2e84353945029fb776a346691cfc/20db0aaf9ac645f1801160c88a7c2249.jpeg"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Монитор M2433A",
+            "description": "Compact yet powerful, the iPad Mini is perfect for on-the-go creativity. Enjoy Studio Mics for HD video calls and a vibrant touchscreen.",
+            "price": "7 728",
+            "rating": 4.43,
+            "brand": "Apple",
+            "category": "tablets",
+            "images": [
+                "https://ir-2.ozone.ru/s3/multimedia-y/wc350/6782089702.jpg",
+                "https://www.iphon.fr/app/uploads/2021/10/test-ipad-mini-6-copie.jpg",
+                "https://www.sizescreens.com/wp-content/uploads/2021/11/Apple-iPad-mini-2021-screen.jpg",
+                "https://appleshop52.ru/upload/iblock/391/391a37948e109104fc9fcb8574394a73.jpg"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Монитор VG240YM3bmiipx",
+            "description": "Experience style and speed with the Tab 8 Ultra 5G. HD video calls, Studio Mics, and vibrant touchscreen for capturing ideas.",
+            "price": "10 577",
+            "rating": 4.43,
+            "installment": "0.0.24",
+            "planprice": "120",
+            "brand": "Samsung",
+            "category": "tablets",
+            "images": [
+                "https://ir-2.ozone.ru/s3/multimedia-4/wc350/6839118100.jpg",
+                "https://mews.biggeek.ru/wp-content/uploads/2022/03/grnyueyearvycdrxfn3r5y-2048x1152.jpg",
+                "https://r1.community.samsung.com/t5/image/serverpage/image-id/4512258i70A0759E3E6E71AC?v=v2",
+                "https://assets-prd.ignimgs.com/2022/02/09/samsung-galaxy-tab-s8-ultra-1-1644416642043.jpg"
+            ]
+        },
+        {
+            "id": 10,
+            "title": " Монитор G32QC A",
+            "description": "Stay warm and stylish with this trendy jacket. Perfect for any occasion, it's a must-have in your wardrobe.",
+            "price": "31 213",
+            "topprice": 1099,
+            "discountPercentage": "26",
+            "rating": 4.43,
+            "brand": "Nike",
+            "category": "outwear",
+            "images": [
+                "https://ir-2.ozone.ru/s3/multimedia-k/wc350/6851051216.jpg",
+                "https://cf.shopee.co.id/file/4aa0d559027370dbc6f57bfd3ce0f7fd",
+                "https://scontent-hel3-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/270212867_1450866718642448_523943577198469154_n.jpg?_nc_ht=scontent-hel3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=EFy5rDEt8BsAX9YrSFi&edm=AABBvjUBAAAA&ccb=7-4&oh=00_AT8u5kJnbEiBmRToAVrfmzGslhO8upR08PKGBCXAYAKt2Q&oe=61D30127&_nc_sid=83d603",
+                "https://m.media-amazon.com/images/I/51xmCVNuOvL._AC_UX679_.jpg"
+            ]
+        }
+   ],
+    "total": 100,
+    "skip": 0
+}

@@ -1,0 +1,22 @@
+.root{
+    padding-top: 50px;
+}
+
+#section{
+    width: 100%;
+}
+.section_title{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
+.section_title h3{
+    font-size: 35px;
+}
+.products{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: space-evenly;
+}

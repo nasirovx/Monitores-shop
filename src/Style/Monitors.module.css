@@ -1,0 +1,17 @@
+.title{
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.products{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: space-evenly;
+}
+.content{
+    margin: 0 auto;
+    max-width: 1450px;
+}
